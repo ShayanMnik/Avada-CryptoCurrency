@@ -6,8 +6,8 @@
 
 - [Let's Look Demo !](https://shayanmnik.github.io/Avada-CryptoCurrency/)
 
-- Developed by [Shayan Nik](https://www.instagram.com/shayan.nik_web?igsh=eGFqZ295d3B0MzJ6)<br />
-               [Parham Masoumi](https://github.com/parhammasoumi)<br />
+- Developed by [Shayan Nik](https://www.instagram.com/shayan.nik_web?igsh=eGFqZ295d3B0MzJ6)
+               [Parham Masoumi](https://github.com/parhammasoumi)
                [Ali Pishva](https://github.com/iamreal-p)
 
 - Created - 2024-11-16
