@@ -4,7 +4,7 @@
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/03102242-9827-4139-8b01-4828a5159dcd)
 
-- [Demo Project](https://shayanmnik.github.io/FreshBooks/)
+- [Let's Look Demo !](https://shayanmnik.github.io/Avada-CryptoCurrency/)
 
 - Developed by [Shayan Nik](https://www.instagram.com/shayan.nik_web?igsh=eGFqZ295d3B0MzJ6)
                [Parham Masoumi](https://github.com/parhammasoumi) 
